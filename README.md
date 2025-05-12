@@ -1,5 +1,7 @@
 # E-commerce Platform with Django, React, Docker, and AWS EC2
 
+youtube project link: https://youtu.be/z4lrkUAAqoo?si=SpxSZWzT5Mlek-E0
+
 
 A full-stack e-commerce platform built with **Django** (Backend), **React** (Frontend), containerized using **Docker**, and deployed on **AWS EC2**.
 
